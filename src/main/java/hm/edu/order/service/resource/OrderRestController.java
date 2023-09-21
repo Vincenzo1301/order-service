@@ -1,7 +1,7 @@
 package hm.edu.order.service.resource;
 
 import hm.edu.order.service.service.OrderService;
-import hm.edu.order.service.resource.data.OrderDto;
+import hm.edu.order.service.dto.OrderDto;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

@@ -2,7 +2,7 @@ package hm.edu.order.service.service.impl;
 
 import hm.edu.order.service.model.Order;
 import hm.edu.order.service.persistence.OrderRepository;
-import hm.edu.order.service.resource.data.OrderDto;
+import hm.edu.order.service.dto.OrderDto;
 import hm.edu.order.service.service.KafkaService;
 import hm.edu.order.service.service.OrderService;
 import org.springframework.stereotype.Service;

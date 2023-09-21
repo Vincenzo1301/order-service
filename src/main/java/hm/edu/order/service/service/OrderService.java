@@ -1,6 +1,6 @@
 package hm.edu.order.service.service;
 
-import hm.edu.order.service.resource.data.OrderDto;
+import hm.edu.order.service.dto.OrderDto;
 
 public interface OrderService {
 

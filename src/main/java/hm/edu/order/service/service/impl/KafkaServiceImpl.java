@@ -2,7 +2,7 @@ package hm.edu.order.service.service.impl;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import hm.edu.order.service.resource.data.OrderDto;
+import hm.edu.order.service.dto.OrderDto;
 import hm.edu.order.service.service.KafkaService;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.kafka.core.KafkaTemplate;

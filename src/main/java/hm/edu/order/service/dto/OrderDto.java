@@ -1,4 +1,4 @@
-package hm.edu.order.service.resource.data;
+package hm.edu.order.service.dto;
 
 import org.springframework.lang.NonNull;
 
