@@ -10,7 +10,7 @@ This service is a part of an example project. Its primary purpose is to a consum
 - An installed and running Apache Kafka instance. For more information visit: https://kafka.apache.org/
 
 ## Architecture
-The order-service retrieves sample orders via HTTP requests and stores them in the database. Additionally, an event is published to a topic, which is then consumed by the notification-service.
+The order-service retrieves sample orders via HTTP requests and stores them in the database. Additionally, an event is published to a topic, which is then consumed by the notification-service (https://github.com/Vincenzo1301/notification-service).
 
 ![Architecture](doc/architecture.png)
 
