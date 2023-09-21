@@ -1,0 +1,10 @@
+###
+POST http://localhost:8081/api/v1/orders
+Content-Type: application/json
+
+{
+  "email": "test@gmail.com",
+  "amount": 10
+}
+
+###
